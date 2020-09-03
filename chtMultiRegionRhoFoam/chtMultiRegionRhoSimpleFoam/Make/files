@@ -1,0 +1,4 @@
+chtMultiRegionRhoSimpleFoam.C
+
+EXE = $(FOAM_APPBIN)/chtMultiRegionRhoSimpleFoam
+
