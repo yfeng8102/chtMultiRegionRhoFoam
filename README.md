@@ -2,11 +2,11 @@
 
 ## Description
 
-`chtMultiRegionRhoSimpleFoam` is a Conjugate Heat Transfer (CHT) solver for steady transonic/subsonic flows. It was developed based on two standard solver, `chtMultiRegionSimpleFoam` and `rhoSimpleFoam` of OpenFOAM-5.0.
+`chtMultiRegionRhoSimpleFoam` is a Conjugate Heat Transfer (CHT) solver for three-dimensional steady transonic/subsonic flows. It was developed based on two standard solvers, `chtMultiRegionSimpleFoam` and `rhoSimpleFoam` of OpenFOAM-5.0.
 
 ## Installation
 
-* copy `chtMultiRegionRhoFoam` to `.../OpenFOAM5/applications\solvers\heatTransfer`
+* copy `chtMultiRegionRhoFoam` to `.../OpenFOAM-5.0/applications/solvers/heatTransfer`
 * cd `chtMultiRegionRhoFoam/chtMultiRegionRhoSimpleFoam`
 * wmake
 
